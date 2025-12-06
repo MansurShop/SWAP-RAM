@@ -1,6 +1,6 @@
 # Install SwapRAM
  ```html
-wget -q -O /usr/bin/swapram "https://raw.githubusercontent.com/NevermoreSSH/swapram/main/swapram.sh" && chmod +x /usr/bin/swapram && swapram
+wget -q -O /usr/bin/swapram "https://raw.githubusercontent.com/MansurShop/SWAP-RAM/main/swapram.sh" && chmod +x /usr/bin/swapram && swapram
   ```
 Then Just type command below
  ```html
@@ -15,3 +15,6 @@ swapram
 - 1GB
 - 2GB
 - 4GB
+
+Credit
+- NevermoreSSH
