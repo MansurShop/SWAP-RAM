@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
+# Auther  : MansurShop
 # Date    : 22/11/2025
 # (C) Copyright 2025
 # =========================================
@@ -34,8 +34,8 @@ clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
 echo -e " \E[0;47;30m                 SWAP RAM                   \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m"
-echo -e "\033[1;37mSwapRAM By NevermoreSSH\033[0m"
-echo -e "\033[1;37mTelegram : https://t.me/todfix667 \033[0m"
+echo -e "\033[1;37mSwapRAM By MansurShop\033[0m"
+echo -e "\033[1;37mTelegram : https://t.me/mansurshopbot \033[0m"
 echo -e ""
 
 # **Current Swap Info (ATAS NOMBOR 1)**
